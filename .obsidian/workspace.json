@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Notlarım/BLM2041/0) Giriş.md",
+                "file": "4) Notes/BLM2041/Notlar/1) Basic Definitions & Classifications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0) Giriş"
+              "title": "1) Basic Definitions & Classifications"
+            }
+          },
+          {
+            "id": "1ca7af6a6a9ddf73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4) Notes/BLM2041/Notlar/1) Basic Definitions & Classifications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1) Basic Definitions & Classifications"
+            }
+          },
+          {
+            "id": "310b29754303337d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4) Notes/BLM2041/Notlar/1) Basic Definitions & Classifications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1) Basic Definitions & Classifications"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,20 +198,32 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "0140e401acc72726",
+  "active": "310b29754303337d",
   "lastOpenFiles": [
+    "4) Notes/BLM2041/Notlar/0) Bilgisayar Mühendisleri için Sinyaller ve Sistemler.md",
+    "4) Notes/BLM2041/Notlar/1) Basic Definitions & Classifications.md",
+    "Pasted image 20250402173431.png",
+    "1) Resources/Pasted image 20250402170719.png",
+    "1) Resources/Pasted image 20250402170523.png",
     "Untitled.md",
-    "4) Notlarım/BLM2041/0) Giriş.md",
-    "3) Template'ler/tmp.md",
-    "2) Etiketler/tmp.md",
+    "1) Resources/Pasted image 20250402165614.png",
+    "2) Tags/School.md",
+    "2) Tags/BLM2041.md",
+    "0 ) ToDo/tmp.md",
     "1) Kaynak Dosyaları/tmp.md",
-    "0 ) Taslaklar/tmp.md",
-    "4) Notlarım/BLM2041",
-    "4) Notlarım",
-    "3) Template'ler",
-    "2) Etiketler",
-    "1) Kaynak Dosyaları",
-    "Welcome.md",
-    "0 ) Taslaklar"
+    "1) Resources/Pasted image 20250402164701.png",
+    "3) Templates/Lecture Note.md",
+    "4) Notes/BLM2041/Kaynaklar/SaS-01v2.pptx",
+    "4) Notes/BLM2041/Kaynaklar/Ek Slayt_SaS-00.pptx",
+    "4) Notes/BLM2041/Kaynaklar/SaS-00_v2024.pptx",
+    "4) Notes/BLM2041/Kaynaklar/SaS-02.ppt",
+    "4) Notes/BLM2041/Kaynaklar/SaS-03.ppt",
+    "4) Notes/BLM2041/Kaynaklar/ConvExamples_1.pptx",
+    "4) Notes/BLM2041/Kaynaklar/ConvExamples_2.docx",
+    "4) Notes/BLM2041/Kaynaklar/SaS-04.ppt",
+    "4) Notes/BLM2041/Kaynaklar/SaS-05.ppt",
+    "4) Notes/BLM2041/Notlar",
+    "2) Tags/tmp.md",
+    "Welcome.md"
   ]
 }
