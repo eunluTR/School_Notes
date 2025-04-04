@@ -11,12 +11,14 @@
             "id": "7ee64f028eaac1b5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1) Resources/Pasted image 20250404112827.png"
+                "file": "4) Notes/BLM2041/Notlar/4) System Properities.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250404112827"
+              "icon": "lucide-file",
+              "title": "4) System Properities"
             }
           }
         ]
@@ -167,23 +169,25 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "0140e401acc72726",
+  "active": "7ee64f028eaac1b5",
   "lastOpenFiles": [
-    "4) Notes/BLM2041/Notlar/3) Signals and Systems Properties.md",
+    "4) Notes/BLM2041/Notlar/3) Signals Properties.md",
+    "4) Notes/BLM2041/Notlar/4) System Properities.md",
+    "3) Templates/Lecture Note.md",
+    "4) Notes/BLM2041/Notlar/0) Bilgisayar Mühendisleri için Sinyaller ve Sistemler.md",
+    "4) Notes/BLM2041/Kaynaklar/3) SaS-03.pdf",
+    "1) Resources/Pasted image 20250404112827.png",
     "4) Notes/BLM2041/Notlar/2) Signal Classification.md",
     "4) Notes/BLM2041/Notlar/1) Basic Definitions & Classifications.md",
-    "4) Notes/BLM2041/Notlar/0) Bilgisayar Mühendisleri için Sinyaller ve Sistemler.md",
     "4) Notes/BLM2041/Kaynaklar/ConvExamples_2.pdf",
     "4) Notes/BLM2041/Kaynaklar/ConvExamples_1.pdf",
     "4) Notes/BLM2041/Kaynaklar/5) SaS-05.pdf",
     "4) Notes/BLM2041/Kaynaklar/4) SaS-04.pdf",
-    "4) Notes/BLM2041/Kaynaklar/3) SaS-03.pdf",
     "4) Notes/BLM2041/Kaynaklar/2) SaS-02.pdf",
     "4) Notes/BLM2041/Kaynaklar/1) SaS-01v2.pdf",
     "4) Notes/BLM2041/Kaynaklar/0) SaS-00_v2024.pdf",
     "4) Notes/BLM2041/Kaynaklar/0) Ek Slayt_SaS-00.pdf",
     "Pasted image 20250404112800.png",
-    "1) Resources/Pasted image 20250404112827.png",
     "2) Tags/BLM2041.md",
     "4) Notes/BLM2041/Notlar/2025-04-03_HW3.md",
     "1) Resources/Pasted image 20250403173725.png",
@@ -200,7 +204,6 @@
     "2) Tags/School.md",
     "0 ) ToDo/tmp.md",
     "1) Kaynak Dosyaları/tmp.md",
-    "3) Templates/Lecture Note.md",
     "4) Notes/BLM2041/Kaynaklar/SaS-01v2.pptx",
     "2) Tags/tmp.md",
     "Welcome.md"
