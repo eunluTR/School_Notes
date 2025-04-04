@@ -1,3 +1,8 @@
+
+Time: 03-04-2025 20.04
+
+Tags: [[School]] | [[BLM2041]]
+
 ## Frequency Components and Signal Decomposition
 
 - Any signal can be represented as a **sum of sinusoidal components** with different frequencies, amplitudes, and phases.
@@ -45,3 +50,5 @@
 - **Deterministic Signal**: Defined precisely by an equation or rule.
 - **Random Signal**: Contains some level of uncertainty or variability.
 ![[Pasted image 20250403173659.png]]
+# References
+[[2) SaS-02.pdf]]

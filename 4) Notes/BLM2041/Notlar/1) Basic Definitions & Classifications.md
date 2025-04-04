@@ -3,8 +3,6 @@ Time: 02-04-2025 16.04
 
 Tags: [[School]] | [[BLM2041]] 
 
-# 1) Basic Definitions & Classifications
-
 ## Definition of a System
 - A **system** can be seen as an integrated set of components that accomplish a specific objective.
 - **Inputs**, **processes**, and **outputs** are crucial; **feedback** (when present) further defines the system’s behavior.
@@ -61,3 +59,4 @@ Tags: [[School]] | [[BLM2041]]
 
 
 # References
+[[1) SaS-01v2.pdf]]
