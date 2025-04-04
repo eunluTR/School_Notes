@@ -1,7 +1,7 @@
 
 Time: 03-04-2025 20.04
 
-Tags: [[School]] | [[BLM2041]]
+Tags: [[BLM2041]]
 
 ## Frequency Components and Signal Decomposition
 

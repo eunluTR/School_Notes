@@ -1,7 +1,7 @@
 
 Time: 03-04-2025 21.04
 
-Tags: [[School]] | [[BLM2041]]
+Tags: [[BLM2041]]
 
 ## Signal Operations and Special Signals
 

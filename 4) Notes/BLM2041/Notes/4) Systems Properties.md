@@ -1,7 +1,7 @@
 
 Time: 04-04-2025 11.04
 
-Tags: [[School]] | [[BLM2041]]
+Tags: [[BLM2041]]
 
 ## Properties of Systems
 

@@ -1,7 +1,7 @@
 
 Time: 02-04-2025 16.04
 
-Tags: [[School]] | [[BLM2041]] 
+Tags: [[BLM2041]] 
 
 ## Definition of a System
 - A **system** can be seen as an integrated set of components that accomplish a specific objective.
