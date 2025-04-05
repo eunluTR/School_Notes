@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Notes/BLM2022/Notes/2) Logic Gates & Logic Levels.md",
+                "file": "3) Templates/Lecture Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2) Logic Gates & Logic Levels"
+              "title": "Lecture Note"
             }
           }
         ]
@@ -169,11 +169,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "0140e401acc72726",
+  "active": "b32189a9b27bf372",
   "lastOpenFiles": [
+    "4) Notes/BLM2022/Notes/2) Logic Gates & Logic Levels.md",
     "1) Resources/Pasted image 20250405172918.png",
     "4) Notes/BLM2022/Notes/0) Bilgisayar Organizasyonu.md",
-    "4) Notes/BLM2022/Notes/2) Logic Gates & Logic Levels.md",
     "4) Notes/BLM2022/Notes/1) Managing Complexity & Binary Numbers.md",
     "4) Notes/BLM2041/Notes/1) Basic Definitions & Classifications.md",
     "4) Notes/BLM2041/Notes/0) Bilgisayar Mühendisleri için Sinyaller ve Sistemler.md",
@@ -208,7 +208,6 @@
     "1) Resources/Asymptoyic-Notations.png.webp",
     "1) Resources/Bubble Sort 1.png",
     "1) Resources/Bubble Sort - Enhanced Version.png",
-    "1) Resources/Selection Sort.png",
     "3) Templates/Lecture Note.md",
     "4) Notes/BLM2512/Untitled.md",
     "4) Notes/BLM2041/Notlar/2025-04-03_HW3.md",
